@@ -47,38 +47,8 @@ Powered by Google's Gemini 3 Flash model, GitHire goes beyond generic tutorials,
 4.  Gemini returns a candidate summary and 3 project suggestions.
 5.  Clicking "Generate Guide" creates a deep-linkable page (e.g., `#/guide/custom-compiler`) with a full technical breakdown.
 
-[[**star-history.com**](https://star-history.com), **the missing GitHub star history graph of GitHub repos.**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=star-history/star-history&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=star-history/star-history&type=Date" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date" />
-</picture>
-
-<div align="left">
-
-```html
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://api.star-history.com/svg?repos=star-history/star-history&type=Date&theme=dark
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://api.star-history.com/svg?repos=star-history/star-history&type=Date
-    "
-  />
-  <img
-    alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date"
-  />
-</picture>
-```
-
-</div>](https://www.star-history.com/#Nikhil-Info/Git-hire.git&type=date&legend=top-left)
+## Star-history
+https://www.star-history.com/#Nikhil-Info/Git-hire.git&type=date&legend=top-left
 
 ## 📝 License
 
