@@ -47,8 +47,9 @@ Powered by Google's Gemini 3 Flash model, GitHire goes beyond generic tutorials,
 4.  Gemini returns a candidate summary and 3 project suggestions.
 5.  Clicking "Generate Guide" creates a deep-linkable page (e.g., `#/guide/custom-compiler`) with a full technical breakdown.
 
-## Star-history
-https://www.star-history.com/#Nikhil-Info/Git-hire.git&type=date&legend=top-left
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Nikhil-Info/Git-hire.git&type=date&legend=bottom-right)](https://www.star-history.com/#Nikhil-Info/Git-hire.git&type=date&legend=bottom-right)
 
 ## 📝 License
 
